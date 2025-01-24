@@ -4,6 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi, I'm Bernie
 - 🐧 I like Linux and Python
-- ☁️ I'm passionate about cloud engineering and DevOps
-- 🌱 I'm learning Neovim
+- ☁️ I'm passionate about cloud engineering, backend, and DevOps
+- 🌱 I'm learning Neovim, and Go
 - ✉️ Reach out bernie.camejo [at] icloud.com
