@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi, I'm Bernie
 - 🐧 I like Linux and Python
 - ☁️ I'm passionate about cloud and data engineering, backend programming, and DevOps
-- 🌱 I'm learning Neovim, and Go
+- 🌱 I'm learning Terraform and Ansible
 - ✉️ Reach out bernie.camejo [at] icloud.com
 
 ## About me
