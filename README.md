@@ -17,7 +17,7 @@ I'm [passionate and enjoy my work](https://bernieops.com/about) because tech alw
 ### International Space Station Location Tracker on AWS
 A small data engineering pipeline that uses Python, Docker, AWS Lambda, ECR and EventBridge.  
 https://github.com/bernie-cm/iss-lambda
-### Automating DevOps with AWS, Terraform, Ansible and Docker 🚧 (under construction)
+### Automating DevOps with AWS, Terraform, Ansible and Docker
 Showcase practical DevOps using Infrastructure as Code (IaC) and configuration management.  
 https://github.com/bernie-cm/devops-automation
 ### Traffic Camera Offences ETL 🚧 (under construction)
@@ -25,6 +25,7 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+- [Stop Wrestling with UNIX Timestamps: A Clean Pandas Solution](https://bernieops.com/stop-wrestling-with-unix-timestamps-a-clean-pandas-solution)
 - [Dockerising an ISS Location Tracker: Lessons from Local Development](https://bernieops.com/dockerising-an-iss-location-tracker-lessons-from-local-development)
 - [Troubleshooting a connection to an Amazon RDS Postgres database over the internet](https://bernieops.com/troubleshooting-a-connection-to-an-amazon-rds-postgres-database-over-the-internet)
 - [Fixing incorrect KMS Key Policy when deploying Lambda with an IAM Role](https://bernieops.com/fixing-incorrect-kms-key-policy-when-deploying-lambda-with-an-iam-role)
