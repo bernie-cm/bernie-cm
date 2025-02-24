@@ -25,6 +25,7 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+- [Hands-on Infrastructure as Code: AWS Deployment with Terraform](https://bernieops.com/hands-on-infrastructure-as-code-aws-deployment-with-terraform)
 - [Stop Wrestling with UNIX Timestamps: A Clean Pandas Solution](https://bernieops.com/stop-wrestling-with-unix-timestamps-a-clean-pandas-solution)
 - [Dockerising an ISS Location Tracker: Lessons from Local Development](https://bernieops.com/dockerising-an-iss-location-tracker-lessons-from-local-development)
 - [Troubleshooting a connection to an Amazon RDS Postgres database over the internet](https://bernieops.com/troubleshooting-a-connection-to-an-amazon-rds-postgres-database-over-the-internet)
