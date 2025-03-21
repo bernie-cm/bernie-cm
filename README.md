@@ -28,6 +28,7 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+- [Getting Started with Linux cgroups: A Practical Guide](https://bernieops.com/getting-started-with-linux-cgroups-a-practical-guide)
 - [Secure Cloud Computing: How to Deploy and Connect to a Google Cloud VM](https://bernieops.com/secure-cloud-computing-how-to-deploy-and-connect-to-a-google-cloud-vm)
 - [Mastering CloudFormation: Hands-on Detection and Remediation of Infrastructure Drift](https://bernieops.com/mastering-cloudformation-hands-on-detection-and-remediation-of-infrastructure-drift)
 - [When Ansible Can't See Your EC2 Instances: Resolving AWS Dynamic Inventory Issues](https://bernieops.com/when-ansible-cant-see-your-ec2-instances-resolving-aws-dynamic-inventory-issues)
