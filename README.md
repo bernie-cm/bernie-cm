@@ -28,6 +28,7 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+- [Building a Kubernetes Cluster from Scratch - Part 1: Environment Setup](https://bernieops.com/building-a-kubernetes-cluster-from-scratch-part-1-environment-setup)
 - [Beyond Docker: Setting Up and Managing Linux Containers with LXC](https://bernieops.com/beyond-docker-setting-up-and-managing-linux-containers-with-lxc)
 - [Getting Started with Linux cgroups: A Practical Guide](https://bernieops.com/getting-started-with-linux-cgroups-a-practical-guide)
 - [Secure Cloud Computing: How to Deploy and Connect to a Google Cloud VM](https://bernieops.com/secure-cloud-computing-how-to-deploy-and-connect-to-a-google-cloud-vm)
