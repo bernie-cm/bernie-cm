@@ -28,6 +28,7 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+- [Kubernetes Administration 101: Basic Cluster Tasks Every Admin Should Know](https://bernieops.com/kubernetes-administration-101-basic-cluster-tasks-every-admin-should-know)
 - [How to create Kubernetes YAML files the smart way with kubectl](https://bernieops.com/how-to-create-kubernetes-yaml-files-the-smart-way-with-kubectl)
 - [Building a Kubernetes Cluster from Scratch: Part 2 - Installing Container Runtime and Kubernetes Components](https://bernieops.com/building-a-kubernetes-cluster-from-scratch-part-2-installing-container-runtime-and-kubernetes-components)
 - [Building a Kubernetes Cluster from Scratch - Part 1: Environment Setup](https://bernieops.com/building-a-kubernetes-cluster-from-scratch-part-1-environment-setup)
