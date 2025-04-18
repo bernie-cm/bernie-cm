@@ -28,10 +28,14 @@ A data engineering pipeline that extracts, processes, and serves traffic camera 
 https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
+### Kubernetes stuff
+- [ReplicaSets in Kubernetes: Core Building Blocks for Application Scaling](https://bernieops.com/replicasets-in-kubernetes-core-building-blocks-for-application-scaling)
 - [Kubernetes Administration 101: Basic Cluster Tasks Every Admin Should Know](https://bernieops.com/kubernetes-administration-101-basic-cluster-tasks-every-admin-should-know)
 - [How to create Kubernetes YAML files the smart way with kubectl](https://bernieops.com/how-to-create-kubernetes-yaml-files-the-smart-way-with-kubectl)
 - [Building a Kubernetes Cluster from Scratch: Part 2 - Installing Container Runtime and Kubernetes Components](https://bernieops.com/building-a-kubernetes-cluster-from-scratch-part-2-installing-container-runtime-and-kubernetes-components)
 - [Building a Kubernetes Cluster from Scratch - Part 1: Environment Setup](https://bernieops.com/building-a-kubernetes-cluster-from-scratch-part-1-environment-setup)
+
+### Other
 - [Beyond Docker: Setting Up and Managing Linux Containers with LXC](https://bernieops.com/beyond-docker-setting-up-and-managing-linux-containers-with-lxc)
 - [Getting Started with Linux cgroups: A Practical Guide](https://bernieops.com/getting-started-with-linux-cgroups-a-practical-guide)
 - [Secure Cloud Computing: How to Deploy and Connect to a Google Cloud VM](https://bernieops.com/secure-cloud-computing-how-to-deploy-and-connect-to-a-google-cloud-vm)
