@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Bernie
 - 🐧 I like Linux and Python
 - ☁️ I'm passionate about cloud and data engineering, backend programming, and DevOps
-- 🌱 I'm learning ⎈ Kubernetes to take my CKA exam
+- 🌱 I'm learning 🕸️ Service Mesh 
 - ✉️ Reach out bernie.camejo [at] icloud.com
 
 ## About me
