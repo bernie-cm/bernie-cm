@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Bernie
 - 🐧 I like Linux, Kubernetes and Python
 - ☁️ I'm passionate about cloud and data engineering, backend programming, and DevOps
-- 🌱 I'm learning CI with GitHub Actions and CD with Argo CD and Flux
+- 🌱 I'm learning unified logging 📋 with FluentD and Fluent Bit
 - ✉️ Reach out bernie.camejo [at] icloud.com
 
 ## About me
