@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Bernie
 - 🐧 I like Linux, Kubernetes and Python
 - ☁️ I'm passionate about cloud and data engineering, backend programming, and DevOps
-- 🌱 I'm learning unified logging 📋 with FluentD and Fluent Bit
-- ✉️ Reach out bernie.camejo [at] icloud.com
+- 🌱 I'm learning AWS Solutions Architecture
+- ✉️ Reach out berniecamejo07 [at] gmail.com
 
 ## About me
 I lead a team of Data and DevOps engineers. After leading teams that design and build data-intensive applications, I have realised my true passion is to be involved in the hands-on work, so I want to leave management and become a Data and DevOps Engineer specialising in cloud environments. At work, I mainly use Linux, AWS, Kubernetes, and Python.
