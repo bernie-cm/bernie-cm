@@ -23,9 +23,6 @@ https://github.com/bernie-cm/devops-automation
 ### Using CloudFormation for IaC and detecting stack drfit
 How to create a stack using AWS CloudFormation, detect drift in the stack, and perform a stack update.
 https://github.com/bernie-cm/cloudformation_lab
-### Traffic Camera Offences ETL 🚧 (under construction)
-A data engineering pipeline that extracts, processes, and serves traffic camera violation data in Canberra. This project uses Python, Kestra for orchestration, and Google Cloud Platform.  
-https://github.com/bernie-cm/traffic-pipeline  
 
 ## Recent Blog Posts
 ### Kubernetes stuff
