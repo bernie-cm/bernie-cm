@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - ✉️ Reach out berniecamejo07 [at] gmail.com
 
 ## About me
-I lead a team of system engineers, administrators, and IT infrastructure operations specialists. My passion is in technical work, and being involved in the hands-on work, improving our DevOps practices and deliver more value to our business partners. My goal is to uplift our internal DevOps practices, and become a centre of excellence for cloud engineering in our organisation. At work, I mainly use Linux, AWS, Docker, and Python.
+I lead a team of system engineers, administrators, and IT infrastructure operations specialists. My passion is in technical work, and being involved in the hands-on work, improving our DevOps practices and deliver more value to our business partners. My goal is to uplift our internal DevOps practices, and become a centre of excellence for cloud engineering and IT operations in our organisation. At work, I mainly use Linux, AWS, Docker, and Python.
 
 I'm [passionate and enjoy my work](https://bernieops.com/about) because tech always presents new opportunities to learn.
 
