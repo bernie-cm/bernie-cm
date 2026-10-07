@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Bernie
 - 🐧 I like Linux, Kubernetes and Python
 - ☁️ I'm passionate about cloud and data engineering, backend programming, and DevOps
-- 🌱 I'm learning Jenkins
+- 🌱 I'm learning Red Hat OpenShift
 - ✉️ Reach out berniecamejo07 [at] gmail.com
 
 ## About me
